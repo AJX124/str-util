@@ -1,0 +1,15 @@
+{
+    "name": "pangodream/str-util",
+    "description": "A very simple package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+             "StrUtil": "src/"
+         }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
